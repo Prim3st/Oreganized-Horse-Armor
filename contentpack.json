@@ -1,0 +1,18 @@
+{
+    "id": "oreganized_horse_armor",
+    "name": "Oreganized Horse Armor",
+    "description": "Adds Horse Armor for the materials from Oreganized.",
+    "version": "1.0.0",
+    "authors": [
+        "Prime"
+    ],
+    "dependencies": [
+        {
+            "type": "REQUIRED",
+            "id": "oreganized",
+            "source": "MOD",
+            "versionRange": "[5.2.0,)",
+            "reason": "Required for core functionality"
+        }
+    ]
+}

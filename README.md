@@ -1,2 +1,2 @@
-# oreganized_horse_armor
+# Oreganized Horse Armor
 KubeJS ContentPack adding Horse Armor for the materials from Oreganized.
